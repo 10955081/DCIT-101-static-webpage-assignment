@@ -1,0 +1,36 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: yellow;
+}
+
+h1 {
+    text-align: center;
+    color: royalblue;
+}
+
+li {
+    display: inline;
+}
+
+#mypicture {
+    text-align: center;
+    border: 5px solid royalblue;
+    border-radius: 100%;
+}
+
+#intro {
+    background-image: url('./photos/University-of-Ghana-etudes-superieures-ghana.jpg');
+    color: white;
+    display: block;
+    visibility: visible;
+    position: relative;
+    height: 300px;
+}
+
+
+#contact {
+    text-align: center;
+    display: block;
+    column-width: 100px;
+}
+
